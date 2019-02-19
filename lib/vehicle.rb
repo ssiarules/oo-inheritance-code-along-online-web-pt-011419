@@ -5,5 +5,11 @@ class Vehicle
     @wheel_size = wheel_size
     @wheel_number = wheel_number
   end 
+  
+  def go 
+    "vrrrrrrroom!"
+  end 
+  
+  def
 
 end
